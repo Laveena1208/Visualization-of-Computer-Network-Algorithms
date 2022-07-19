@@ -25,7 +25,7 @@ The following project is to visualize the Computer Network Algorithm.The project
 ## Architecture of the application
 
 <div>
-<img src="" width="900" height="500" />
+<img src="https://github.com/Laveena1208/Visualization-of-Computer-Network-Algorithms/blob/master/Screenshots/architecture.JPG" width="900" height="500" />
 </div>
 
 
@@ -33,7 +33,7 @@ The following project is to visualize the Computer Network Algorithm.The project
 ## Some Screenshot of Application
 
 <div>
-<img src="" width="900" height="500" />
+<img src="https://github.com/Laveena1208/Visualization-of-Computer-Network-Algorithms/blob/master/Screenshots/algorithm.JPG" width="900" height="500" />
 </div>
 
 ## Conclusion and Future Work
